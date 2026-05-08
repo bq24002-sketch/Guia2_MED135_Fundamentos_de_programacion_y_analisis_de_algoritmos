@@ -1,0 +1,2 @@
+# Fundamentos-de-programaci-n-y-an-lisis-de-algoritmos.
+Repositorio académico enfocado en la implementación y análisis de algoritmos de búsqueda y ordenación utilizando Python. Incluye ejemplos prácticos de búsqueda secuencial, búsqueda binaria, Quick Sort y Merge Sort, acompañados de documentación, explicaciones teóricas y pruebas de funcionamiento.
