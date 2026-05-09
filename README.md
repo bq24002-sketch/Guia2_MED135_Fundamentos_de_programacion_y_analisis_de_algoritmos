@@ -1,6 +1,6 @@
 ---
 titulo: Proyecto Final
-estado: En desarrollo
+estado: activo
 tags:
   - UES
   - Python
