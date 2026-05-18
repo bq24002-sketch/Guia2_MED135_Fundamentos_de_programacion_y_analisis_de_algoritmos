@@ -6,6 +6,7 @@ tags:
   - Python
 ---
 >[!IMPORTANT]
+>
 > **Algoritmos de ordenación utilizando Python**
 
 # Fundamentos de programacion y analisis de algoritmos
